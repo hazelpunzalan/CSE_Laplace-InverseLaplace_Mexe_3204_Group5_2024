@@ -5,3 +5,4 @@ I. Solve for the Laplace transform of the following:
 II. Solve for the Inverse Laplace Transform of the following:
 ![1709208007691](https://github.com/hazelpunzalan/CSE_Laplace-InverseLaplace_Mexe_3204_Group5_2024/assets/157662884/837771aa-02ed-4a3b-befb-c69f23f5109e)
 III. Solve for the Inverse Laplace Transform of the following:
+![1709208007686](https://github.com/hazelpunzalan/CSE_Laplace-InverseLaplace_Mexe_3204_Group5_2024/assets/157662884/3be5b188-eb2c-4bc8-a2c2-7853eb942137)
