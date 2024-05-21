@@ -1,7 +1,6 @@
 clc
 clear
 close all
-
 %% I. Solve for laplace transform of the following:
 
 syms s t;
