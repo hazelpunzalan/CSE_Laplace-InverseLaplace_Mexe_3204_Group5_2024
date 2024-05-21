@@ -2,9 +2,9 @@ clc
 clear
 close all
 
-%% II. Solve for inverse laplace of the following:
+%% II.Solve for inverse laplace of the following:
 
-syms s t;
+syms s t; 
 
 % II.1
 
